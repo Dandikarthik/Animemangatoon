@@ -1,0 +1,112 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.logo{
+    color: #ff7200;
+    font-size: 35px;
+    font-family: Arial;
+    padding-left: 20px;
+    float: left;
+    padding-top: 10px;
+    margin-top: 5px
+}
+.navbar{
+    width: 1200px;
+    height: 75px;
+    margin: auto;
+}
+.menu{
+    width: 400px;
+    float: left;
+    height: 70px;
+}
+.form h2{
+    width: 220px;
+    font-family: sans-serif;
+    text-align: center;
+    color: #ff7200;
+    font-size: 22px;
+    background-color: #fff;
+    border-radius: 10px;
+    margin: 2px;
+    padding: 8px;
+}
+.icon{
+    width: 200px;
+    float: left;
+    height: 70px;
+}
+.srch{
+    font-family: 'Times New Roman';
+    width: 200px;
+    height: 40px;
+    background: transparent;
+    border: 1px solid #ff7200;
+    margin-top: 13px;
+    color: #fff;
+    border-right: none;
+    font-size: 16px;
+    float: left;
+    padding: 10px;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+}
+.btn{
+    width: 100px;
+    height: 40px;
+    background: #ff7200;
+    border: 2px solid #ff7200;
+    margin-top: 13px;
+    color: #fff;
+    font-size: 15px;
+    border-bottom-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    transition: 0.2s ease;
+    cursor: pointer;
+}
+.btn:hover{
+    color: #000;
+}
+
+.btn:focus{
+    outline: none;
+}
+
+.srch:focus{
+    outline: none;
+}
+
+.items{
+    width: 100%;
+    min-height: 100vh;
+    text-align: center;
+
+}
+.items h1{
+    padding-right: 40%;
+    padding-top: 10%;
+    padding-left: 40%;
+}
+.items h3{
+    font-size: 25px;
+}
+.items h4{
+    font-size: 25px;
+}
+.items h5{
+    font-size: 25px;
+}
+.items img{
+    width: 25%;
+    border-radius: 10px;
+    
+}
+
+
+
+
+
+
